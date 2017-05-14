@@ -1,1 +1,35 @@
 /* Agrega aquí tus estilos*/
+*{
+	font-family: 'Raleway', 'Arial', sans-serif;
+}
+header{
+	background-color: #10B86B;
+}
+header{
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+}
+h1{
+	padding: 10px;
+}
+h2{
+	font-size: 20px;
+	padding: 10px;
+}
+body{
+	width: 80%;
+	margin: 0 auto;
+	background-color: #BBEFBA;
+}
+section div, #zen-supporting {
+	
+}
+div .design-archives, div .zen-resources, div .sidebar{
+	
+	border: green;
+	background-color: #92DC9C;
+}
+div h3{
+	background-color: #70C376;
+}
